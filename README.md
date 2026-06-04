@@ -11,7 +11,7 @@ using a customer dataset. Students will learn preprocessing, visualization, mode
 prediction, evaluation, and comparison of algorithms. 
 
 
-Dataset Features Used 
+Dataset  Features Used 
 
 • Quantity 
 • UnitPrice 
